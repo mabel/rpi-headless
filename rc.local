@@ -1,0 +1,3 @@
+#!/bin/sh -e
+
+python3 $PATH_TO/press_button.py &>/dev/null &
